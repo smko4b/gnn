@@ -1,0 +1,11 @@
+
+J
+java:S1068"-Remove this unused "inputLine" private field.(ÁãÖî8âìÇŠÉ.
+P
+java:S1068".Remove this unused "outputLine" private field.(éÈƒ¤ıÿÿÿÿ8âìÇŠÉ.
+I
+java:S1068",Remove this unused "lineList" private field.(ŠäÆÃ8âìÇŠÉ.
+u
+java:S1450"XRemove the "inputLine" field and declare it as a local variable in the relevant methods.(ÁãÖî8úëÈŠÉ.
+{
+java:S1450"YRemove the "outputLine" field and declare it as a local variable in the relevant methods.(éÈƒ¤ıÿÿÿÿ8úëÈŠÉ.
